@@ -49,10 +49,9 @@ We use **linear regression** to predict a numeric target variable from one or mo
 | File/Folder                  | Description                                         |
 |-----------------------------|-----------------------------------------------------|
 | `linear_regression_analysis.ipynb` | Main notebook containing the full project     |
-| `raw_data.csv`               | (Optional) Original dataset file (if included)      |
+| `heart.csv`               | (Optional) Original dataset file (if included)      |
 | `cleaned_data.csv`           | Output from ETL step                                |
 | `README.md`                  | This file                                           |
-| `requirements.txt`           | List of required packages (optional)                |
 
 ## 🚀 How to Run This Project
 
