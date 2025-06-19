@@ -53,6 +53,10 @@ We use **linear regression** to predict a numeric target variable from one or mo
 | `cleaned_data.csv`           | Output from ETL step                                |
 | `README.md`                  | This file                                           |
 
+## Dataset Source
+
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download 
+
 ## 🚀 How to Run This Project
 
 1. Clone the repo:
